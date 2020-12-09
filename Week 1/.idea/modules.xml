@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex_14-16/Ex_14-16.iml" filepath="$PROJECT_DIR$/Ex_14-16/Ex_14-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_17-18/Ex_17-18.iml" filepath="$PROJECT_DIR$/Ex_17-18/Ex_17-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_19-21/Ex_19-21.iml" filepath="$PROJECT_DIR$/Ex_19-21/Ex_19-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_22-23/Ex_22-23.iml" filepath="$PROJECT_DIR$/Ex_22-23/Ex_22-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_3/Ex_3.iml" filepath="$PROJECT_DIR$/Ex_3/Ex_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_4/Ex_4.iml" filepath="$PROJECT_DIR$/Ex_4/Ex_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_5/Ex_5.iml" filepath="$PROJECT_DIR$/Ex_5/Ex_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_6&amp;7/Ex_6&amp;7.iml" filepath="$PROJECT_DIR$/Ex_6&amp;7/Ex_6&amp;7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_8-12/Ex_8-12.iml" filepath="$PROJECT_DIR$/Ex_8-12/Ex_8-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World!/Hello World!.iml" filepath="$PROJECT_DIR$/Hello World!/Hello World!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1.iml" filepath="$PROJECT_DIR$/Week 1.iml" />
+    </modules>
+  </component>
+</project>

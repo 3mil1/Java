@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex_89/Clock.iml" filepath="$PROJECT_DIR$/Ex_89/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_84/Ex_84.iml" filepath="$PROJECT_DIR$/Ex_84/Ex_84.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_85/Ex_85.iml" filepath="$PROJECT_DIR$/Ex_85/Ex_85.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_86/Ex_86.iml" filepath="$PROJECT_DIR$/Ex_86/Ex_86.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_87/Ex_87.iml" filepath="$PROJECT_DIR$/Ex_87/Ex_87.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_88/Ex_88.iml" filepath="$PROJECT_DIR$/Ex_88/Ex_88.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_89/Ex_89.iml" filepath="$PROJECT_DIR$/Ex_89/Ex_89.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_90/Ex_90.iml" filepath="$PROJECT_DIR$/Ex_90/Ex_90.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_91/Ex_91.iml" filepath="$PROJECT_DIR$/Ex_91/Ex_91.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week 5.iml" filepath="$PROJECT_DIR$/.idea/Week 5.iml" />
+    </modules>
+  </component>
+</project>
